@@ -22,6 +22,9 @@ Customer Churn: End-to-End Analytics & Prediction is a comprehensive data portfo
 
 ##  Tech Stack & Tools
 
-* **Data Engineering & Databases:** MySQL | MySQL Workbench
-* **Machine Learning & Data Science:** Python | Jupyter Notebook | Scikit-Learn (Random Forest)
-* **Business Intelligence:** Power BI Desktop | DAX 
+* **Data Engineering & Databases:** MySQL | MySQL Workbench ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+* **Machine Learning & Data Science:** Python | Jupyter Notebook | Scikit-Learn (Random Forest) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+* **Business Intelligence:** Power BI Desktop | DAX ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+
+
+
