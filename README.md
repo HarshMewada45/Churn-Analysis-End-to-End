@@ -19,3 +19,9 @@ Customer Churn: End-to-End Analytics & Prediction is a comprehensive data portfo
 * **Executive Summary:** Designed an interactive dashboard highlighting macro-level KPIs alongside demographic, geographic, and account-based trends.
 * **Risk Profile Matrix:** Implemented service-level matrices enhanced with visual data bars to pinpoint specific product features driving high customer turnover.
 * **Predictive Profiling:** Created a dedicated *Future Churner Profile* view that visualizes the machine learning model's output, giving stakeholders a proactive list of accounts to target with targeted retention campaigns.
+
+##  Tech Stack & Tools
+
+* **Data Engineering & Databases:** MySQL | MySQL Workbench
+* **Machine Learning & Data Science:** Python | Jupyter Notebook | Scikit-Learn (Random Forest)
+* **Business Intelligence:** Power BI Desktop | DAX 
